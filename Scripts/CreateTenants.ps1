@@ -22,35 +22,7 @@ $tenantCounts = @()
 
 switch ($PoolSize)
 {
-	"16"
-	{
-        $tenantCounts += 20000
-        $tenantUserCounts += 1
-
-        $tenantCounts += 3500
-        $tenantUserCounts += 2
-
-        $tenantCounts += 4000
-        $tenantUserCounts += 5
-
-        $tenantCounts += 3000
-        $tenantUserCounts += 20
-
-        $tenantCounts += 800
-        $tenantUserCounts += 50
-
-        $tenantCounts += 400
-        $tenantUserCounts += 100
-
-        $tenantCounts += 70
-        $tenantUserCounts += 1000
-
-        $tenantCounts += 12
-        $tenantUserCounts += 5000
-
-        $tenantCounts += 4
-        $tenantUserCounts += 10000
-	}
+	
 
 	"8"
 	{
