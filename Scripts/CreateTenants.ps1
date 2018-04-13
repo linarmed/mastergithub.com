@@ -22,8 +22,6 @@ $tenantCounts = @()
 
 switch ($PoolSize)
 {
-	
-
 	"8"
 	{
         $tenantCounts += 166
